@@ -1,4 +1,4 @@
-package com.sl.util.utils;
+package com.sl.util;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.http.HttpStatus;

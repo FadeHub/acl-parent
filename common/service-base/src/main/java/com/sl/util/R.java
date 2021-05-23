@@ -1,4 +1,4 @@
-package com.sl.util.utils;
+package com.sl.util;
 
 import lombok.Data;
 import java.util.HashMap;

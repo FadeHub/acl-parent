@@ -1,6 +1,5 @@
-package com.sl.util.exceptionhandler;
-
-import com.sl.util.utils.R;
+package com.sl.exceptionhandler;
+import com.sl.util.R;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

@@ -1,4 +1,4 @@
-package com.sl.util.exceptionhandler;
+package com.sl.exceptionhandler;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

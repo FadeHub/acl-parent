@@ -1,6 +1,6 @@
 package com.sl.security.security;
 
-import com.sl.util.utils.MD5;
+import com.sl.util.MD5;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
 
@@ -19,7 +19,7 @@ public class DefaultPasswordEncoder implements PasswordEncoder {
     }
 
     public DefaultPasswordEncoder(int strength) {
-        
+
     }
 
     @Override

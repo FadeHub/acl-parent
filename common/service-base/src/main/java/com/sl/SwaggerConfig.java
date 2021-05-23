@@ -1,4 +1,4 @@
-package com.sl.util;
+package com.sl;
 
 import com.google.common.base.Predicates;
 import org.springframework.context.annotation.Bean;
